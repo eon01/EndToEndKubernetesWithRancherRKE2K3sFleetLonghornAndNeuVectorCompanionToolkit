@@ -1,6 +1,6 @@
 # End-to-End Kubernetes with Rancher, RKE2, K3s, Fleet, Longhorn, and NeuVector - The Companion Toolkit
 
-This repository contains the code snippets used in AWX in Action: *End-to-End Kubernetes with Rancher, RKE2, K3s, Fleet, Longhorn, and NeuVector*. 
+This repository contains the code snippets used in *End-to-End Kubernetes with Rancher, RKE2, K3s, Fleet, Longhorn, and NeuVector*. 
 
 ![End-to-End Kubernetes with Rancher, RKE2, K3s, Fleet, Longhorn, and NeuVector](3d.png)
 
